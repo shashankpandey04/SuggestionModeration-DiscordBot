@@ -1,9 +1,9 @@
-###Introducing Suggestion Mod - Your Ultimate Discord Bot for Efficient Suggestion Management 
+### Introducing Suggestion Mod - Your Ultimate Discord Bot for Efficient Suggestion Management 
 
 Welcome to Suggestion Mod, the ultimate solution for managing suggestions within your Discord server. Whether you're looking to streamline your suggestion process or maintain a clean and organized suggestion channel, Suggestion Mod has you covered. 
 
 
-###Key Features: 
+### Key Features: 
 
 **Word Limit Enforcement:** Ensure impactful suggestions by enforcing character limits on messages within the suggestion channel.
 
