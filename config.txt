@@ -1,0 +1,4 @@
+{
+    "target_channel_id": {},
+    "max_characters": 100
+}
